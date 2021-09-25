@@ -1,13 +1,4 @@
 
-KeyW
-script.js:57  KeyA
-script.js:57  KeyS
-script.js:57  KeyD
-script.js:57  ArrowUp
-script.js:57  ArrowLeft
-script.js:57  ArrowDown
-script.js:57  ArrowRight
-*/
 
 const ball = document.querySelector(".ball");
 const field = document.querySelector(".board-container");
